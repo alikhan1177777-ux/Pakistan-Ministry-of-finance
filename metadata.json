@@ -1,0 +1,7 @@
+{
+  "name": "Pak Loan Assist Portal",
+  "description": "Official Ministry of Finance Pakistan Loan Portal for loan assistance programme applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
